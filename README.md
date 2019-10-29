@@ -1,6 +1,6 @@
 # DeblurGAN
-Tensorflow implementation of DeblurGAN(Blind Motion Deblurring Using Conditional Adversarial Networks
-also you can conferent CSDNBLOG [对抗生成网络学习（八）——DeblurGAN实现运动图像的去模糊化(tensorflow实现)](https://blog.csdn.net/z704630835/article/details/84135277)  
+Tensorflow implementation of DeblurGAN(Blind Motion Deblurring Using Conditional Adversarial Networks  
+Also you can conferent CSDNBLOG --[对抗生成网络学习（八）——DeblurGAN实现运动图像的去模糊化(tensorflow实现)](https://blog.csdn.net/z704630835/article/details/84135277)  
 
 # NEXT guide is copy from source link 
 
